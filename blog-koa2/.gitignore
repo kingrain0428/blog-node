@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+package-lock.json
+
+# production
+/build
+
+# misc
+.DS_Store
+npm-debug.log*
+dist/js/vendor.js
+dist/js/app.js
+dist/js/*
+dist/css/*
+dist/src/BaseJs*
+.vscode
+.vscode/*
+index.html
+stats.json
